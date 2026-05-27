@@ -1,0 +1,1 @@
+# Sistem-cu-senzor-temperatura-display
