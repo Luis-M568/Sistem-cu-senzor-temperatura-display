@@ -8,7 +8,7 @@
 #include "utils/delay.h" // Funcția ta Delay()
 
 // Includem abstractizarea senzorului
-#include "senzor.h"
+#include "drivers/senzor/senzor.h"
 
 int main(void) {
     // --- 1. INIȚIALIZĂRI HARDWARE ---

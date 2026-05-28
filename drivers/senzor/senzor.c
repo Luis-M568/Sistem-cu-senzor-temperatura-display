@@ -25,4 +25,4 @@ SenzorLevel_t Senzor_GetLevel(uint8_t adc_channel, SenzorConfig_t* config) {
     else if (pv <= config->very_hot_threshold) { return SENZOR_HOT; } 
     
     return SENZOR_VERY_HOT;
-}\
+}
